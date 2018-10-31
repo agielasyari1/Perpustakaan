@@ -1,0 +1,25 @@
+Dengan ini kami memberitahukan bahwa peminjaman dengan data dibawah ini : 
+No Anggota	: 1
+Nama		: Dina
+Alamat		: Lampung
+
+Hingga saat ini belum mengembalikan buku
+
+-----------------------------------------------------------------
+Judul:Kimia
+Tanggal_pinjam:2017-12-1
+Tanggal_harus_kembali:2017-12-4
+
+-----------------------------------------------------------------
+Judul:Islam
+Tanggal_pinjam:2017-11-5
+Tanggal_harus_kembali:2017-11-10
+
+-----------------------------------------------------------------
+Judul:Islam
+Tanggal_pinjam:2017-11-5
+Tanggal_harus_kembali:2017-11-10
+
+Kami harap proses pengembalian buku segera dilakukan
+
+Terima kasih
